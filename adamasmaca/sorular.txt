@@ -1,0 +1,85 @@
+SORU: TITANIC'E GEZI DUZENLEYEMEYEN DENIZALTI'NIN ADI?
+CEVAP: OCEANGATE
+IPUCU: OCEAN....
+---
+SORU: CRYTEK YAPIMI BIR OYUN ?
+CEVAP: CRYSIS
+IPUCU: CRY...
+---
+SORU: Oyunlarda kullanilan bir programlama dili?
+CEVAP: C++
+IPUCU: C
+---
+SORU: heisenberg kimdir?
+CEVAP: KIMYAGER
+IPUCU: Co2
+---
+SORU: ilk bilgisayar ?
+CEVAP: ENIAC
+IPUCU: E...C
+---
+SORU: bir renk
+CEVAP: MAVI
+IPUCU: 4 haneli
+---
+SORU: bir futbol takimi?
+CEVAP: FENERBAHCE
+IPUCU: kanarya
+---
+SORU: Ege bolgesinde meshur olan bir sey?
+CEVAP: PATATES
+IPUCU: Kumbirin ham maddesi
+---
+SORU: Turkiye'nin baskenti?
+CEVAP: ANKARA
+IPUCU: A...
+---
+SORU: ucgenin en uzun kenari?
+CEVAP: HIPOTENUZ
+IPUCU: Hipo...
+---
+SORU: Insan vUcudunda en buyuk organ?
+CEVAP: CİLT
+IPUCU: Deri...
+---
+SORU: Ay'in yuzeyindeki en buyuk krater?
+CEVAP: TYPHOEUS
+IPUCU: Buyuk yılan...
+---
+SORU: Ilk insani yarattigina inanilan tanri?
+CEVAP: ANU
+IPUCU: Mezopotamya...
+---
+SORU: Insan vucudundaki en kucuk kemik?
+CEVAP: UZENGI KEMIGI
+IPUCU: Kulak...
+---
+SORU: Gunes sistemindeki en buyuk gezegen?
+CEVAP: JUPİTER
+IPUCU: Buyuk gaz...
+---
+SORU: DNA'nin acilimi?
+CEVAP: DEOKSIRIBONUKLEİK ASİT
+IPUCU: Genetik...
+---
+SORU: Ilk halka acık web tarayicisi?
+CEVAP: MOSAIC
+IPUCU: 1993...
+---
+SORU: DNA'nin iki sarmali arasindaki baglantilari saglayan yapi?
+CEVAP: GUDUM
+IPUCU: Bağlayıcı...
+---
+SORU: Cin'in baskenti?
+CEVAP: PEKIN
+IPUCU: Jing...
+---
+SORU: Ilk insanli uzay ucusunu gerceklestiren ülke?
+CEVAP: SOVYETLER BIRLIGI
+IPUCU: Gagarin...
+---
+
+SORU: asdaw
+CEVAP: asdaw
+IPUCU: asdaw
+---

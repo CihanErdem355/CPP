@@ -1,0 +1,4 @@
+﻿  adamasmaca.cpp
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(164,23): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(298,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  adamasmaca.vcxproj -> C:\C++\adamasmaca\x64\Debug\adamasmaca.exe

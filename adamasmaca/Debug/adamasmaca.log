@@ -1,0 +1,12 @@
+﻿  11_FileStream.cpp
+  adamasmaca.cpp
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(108,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(128,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(167,31): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(187,9): error C2360: 'correctGuess' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(165,18): message : 'correctGuess' bildirimine bakın
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(190,9): error C2360: 'correctGuess' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(165,18): message : 'correctGuess' bildirimine bakın
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(193,9): error C2361: 'correctGuess' öğesinin başlatılması 'default' etiketiyle atlandı
+C:\C++\adamasmaca\adamasmaca\adamasmaca.cpp(165,18): message : 'correctGuess' bildirimine bakın
+  Kod Üretiliyor...
